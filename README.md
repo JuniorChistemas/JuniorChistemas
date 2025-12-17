@@ -11,84 +11,159 @@
 
 Soy un desarrollador backend especializado en **Laravel** con experiencia en frontend usando **Vue 3 + Inertia**. Me encanta crear aplicaciones web robustas, escalables y mantenibles utilizando las mejores prácticas de desarrollo.
 
-## 🛠️ Tecnologías y Herramientas
+---
 
-<!-- Solo la sección de tecnologías en versión tabla -->
-### 🏗️ Backend & DevOps
+## 🧰 Tecnologías y Herramientas
+
+### 🧩 Stack Principal
+
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" title="Laravel" />
-      <br>
-      <small>Laravel</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" title="PHP" />
-      <br>
-      <small>PHP</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
-      <br>
-      <small>PostgreSQL</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
-      <br>
-      <small>Docker</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux" />
-      <br>
-      <small>Linux</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="AWS" title="AWS" />
-      <br>
-      <small>AWS</small>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏗️ Backend & DevOps
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" /><br/>
+<b>Laravel</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" /><br/>
+<b>PHP</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" /><br/>
+<b>PostgreSQL</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" /><br/>
+<b>Docker</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" /><br/>
+<b>Linux</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" /><br/>
+<b>AWS</b>
+</td>
+</tr>
 </table>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💻 Frontend
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" /><br/>
+<b>Vue 3</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" /><br/>
+<b>JavaScript</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" /><br/>
+<b>TypeScript</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://astro.build/assets/press/astro-icon-light.svg" height="45" /><br/>
+<b>Astro</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" /><br/>
+<b>HTML5</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" /><br/>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔧 Otras Herramientas
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" /><br/>
+<b>Git</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" /><br/>
+<b>Dart</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" /><br/>
+<b>GitHub</b>
+</td>
+</tr>
+</table>
+
+---
 
 ## 📌 Proyectos Actuales
 
 ### 🔭 Trabajando en
-- **[T & J](https://www.tjingenieria.com)** - Empresa dedicada al desarrollo de software con facturación electrónica en Perú
-- **[Solidaria](https://solidaria.laravel.cloud)** - Colaborando en una plataforma solidaria
+- **[T & J](https://www.tjingenieria.com)** – Empresa dedicada al desarrollo de software con facturación electrónica (Perú)
+- **[Solidaria](https://solidaria.laravel.cloud)** – Colaborando en una plataforma social
 
 ### 🌱 Aprendiendo
 - **Go** para desarrollo backend de alto rendimiento
 
+---
+
 ## 📫 Contacto
 
-- **📧 Email:** junior15062023@gmail.com
-- **🐙 GitHub:** [https://github.com/JuniorChistemas](https://github.com/JuniorChistemas)
-- **🚀 Portafolio:** [https://github.com/JuniorChistemas](https://github.com/JuniorChistemas)
+- **Email:** junior15062023@gmail.com  
+- **GitHub:** https://github.com/JuniorChistemas  
+- **Portafolio:** https://github.com/JuniorChistemas  
+
+---
 
 ## 📺 Contenido y Redes
 
-<div align="center">
+<p align="left">
   <a href="https://www.youtube.com/@JuniorMartinez15" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" alt="YouTube" title="YouTube" />
-    <p><small>YouTube</small></p>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" alt="YouTube" />
   </a>
-</div>
+</p>
+
+---
 
 ## 💬 Puedes preguntarme sobre
 
-- Laravel 12 (novedades, mejores prácticas)
+- Laravel 12 (novedades y buenas prácticas)
 - Vue 3 + Composition API
 - Inertia.js para aplicaciones SPA
-- Facturación electrónica en Perú
+- Facturación electrónica
 - Docker y contenedores
 - Configuración de entornos de desarrollo
 - Deployment en AWS
 
+---
+
 ## ⚡ Dato curioso
 
-¡Me encanta programar escuchando música! 🎵 Creo que la combinación perfecta entre código y buena música puede mejorar significativamente la productividad y creatividad.
+¡Me encanta programar escuchando música! 🎵  
+Creo que la combinación perfecta entre código y buena música mejora la productividad y creatividad.
 
 ---
 
