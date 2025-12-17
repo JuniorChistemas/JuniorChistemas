@@ -49,7 +49,7 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 <b>Linux</b>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" /><br/>
 <b>AWS</b>
 </td>
 </tr>
@@ -96,28 +96,6 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 </tr>
 </table>
 
----
-
-### 🔧 Otras Herramientas
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" /><br/>
-<b>Git</b>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" /><br/>
-<b>Dart</b>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" /><br/>
-<b>GitHub</b>
-</td>
-</tr>
-</table>
-
----
 
 ## 📌 Proyectos Actuales
 
@@ -127,16 +105,6 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 
 ### 🌱 Aprendiendo
 - **Go** para desarrollo backend de alto rendimiento
-
----
-
-## 📫 Contacto
-
-- **Email:** junior15062023@gmail.com  
-- **GitHub:** https://github.com/JuniorChistemas  
-- **Portafolio:** https://github.com/JuniorChistemas  
-
----
 
 ## 📺 Contenido y Redes
 
@@ -166,7 +134,3 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 Creo que la combinación perfecta entre código y buena música mejora la productividad y creatividad.
 
 ---
-
-<p align="center">
-  <i>¡Gracias por visitar mi perfil! Siempre abierto a colaborar en proyectos interesantes.</i>
-</p>
