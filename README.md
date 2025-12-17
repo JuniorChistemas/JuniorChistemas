@@ -106,14 +106,6 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 ### 🌱 Aprendiendo
 - **Go** para desarrollo backend de alto rendimiento
 
-## 📺 Contenido y Redes
-
-<p align="left">
-  <a href="https://www.youtube.com/@JuniorMartinez15" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" alt="YouTube" />
-  </a>
-</p>
-
 ---
 
 ## 💬 Puedes preguntarme sobre
@@ -124,13 +116,13 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 - Facturación electrónica
 - Docker y contenedores
 - Configuración de entornos de desarrollo
-- Deployment en AWS
+- Deployment en AWS y Laravel cloud
 
 ---
 
 ## ⚡ Dato curioso
 
-¡Me encanta programar escuchando música! 🎵  
+¡Programar escuchando música, es lo mejor! 🎵  
 Creo que la combinación perfecta entre código y buena música mejora la productividad y creatividad.
 
 ---
