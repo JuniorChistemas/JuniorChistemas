@@ -101,7 +101,7 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 
 ### 🔭 Trabajando en
 - **[T & J](https://www.tjingenieria.com)** – Empresa dedicada al desarrollo de software con facturación electrónica (Perú)
-- **[Solidaria](https://solidaria.laravel.cloud)** – Colaborando en una plataforma social
+- **[CENTRO_GAS](https://centrogasalex.laravel.cloud)** – Proyecto SaaS para distribuidores PERU
 
 ### 🌱 Aprendiendo
 - **Go** para desarrollo backend de alto rendimiento
@@ -117,12 +117,3 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 - Docker y contenedores
 - Configuración de entornos de desarrollo
 - Deployment en AWS y Laravel cloud
-
----
-
-## ⚡ Dato curioso
-
-¡Programar escuchando música, es lo mejor! 🎵  
-Creo que la combinación perfecta entre código y buena música mejora la productividad y creatividad.
-
----
