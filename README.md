@@ -102,6 +102,7 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 ### 🔭 Trabajando en
 - **[T & J](https://www.tjingenieria.com)** – Empresa dedicada al desarrollo de software con facturación electrónica (Perú)
 - **[CENTRO_GAS](https://centrogasalex.com)** – Proyecto SaaS para distribuidores PERU
+- **[LANDING FIDELIZAPE](https://fideliza-pe.vercel.app/)** – Proyecto landing donde centraliza clientes del sistema de fidelización (Perú)
 
 ### 🌱 Aprendiendo
 - **Go** para desarrollo backend de alto rendimiento
