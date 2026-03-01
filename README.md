@@ -49,8 +49,8 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 <b>Linux</b>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" /><br/>
-<b>AWS</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" /><br/>
+  <b>AWS</b>
 </td>
 </tr>
 </table>
@@ -78,8 +78,17 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
 
 <tr>
 <td align="center">
-<img src="https://astro.build/assets/press/astro-icon-light.svg" height="45" /><br/>
-<b>Astro</b>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://astro.build/assets/press/astro-icon-dark.svg">
+    <img 
+      src="https://astro.build/assets/press/astro-icon-light.svg" 
+      height="45" 
+      alt="Astro" />
+  </picture>
+  <br/>
+  <b>Astro</b>
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" /><br/>
