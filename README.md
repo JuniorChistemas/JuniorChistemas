@@ -81,9 +81,9 @@ Soy un desarrollador backend especializado en **Laravel** con experiencia en fro
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://astro.build/assets/press/astro-icon-dark.svg">
+      srcset="https://astro.build/assets/press/astro-icon-light.svg">
     <img 
-      src="https://astro.build/assets/press/astro-icon-light.svg" 
+      src="https://astro.build/assets/press/astro-icon-dark.svg" 
       height="45" 
       alt="Astro" />
   </picture>
